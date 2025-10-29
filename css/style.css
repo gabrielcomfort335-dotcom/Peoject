@@ -1,0 +1,83 @@
+#container{
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+}
+#upper{
+    width: 1000px;
+    height: 350px;
+}
+.u_left{
+    padding-left: 40px;
+    padding-right: 20px;
+    float: left;
+    width: 340px;
+    height: 350px;
+}
+.u_right{
+    padding-top: 40px;
+    padding-left: 60px;
+    float: right;
+    color: orangered;
+    width: 540px;
+    height: 310px;
+}
+#lower{
+    width: 1000px;
+    height: 250px;
+}
+.l_left{
+    width: 333px;
+    height: 250px;
+    background-color: rgb(240, 81, 24);
+    float: left;
+}
+.l_right{
+    width: 667px;
+    height: 250px;
+    float: right;
+}
+.l_r_left{
+    width: 334px;
+    height: 250px;
+    background-color: orange;
+    float: left;
+}
+.l_r_right{
+    width: 333px;
+    height: 250px;
+    background-color: rgb(240, 176, 57);
+    float: right;
+    
+  }
+.text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    margin-bottom: 10px;
+
+}
+.branding{
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: red;
+    margin-top: 20px;
+}
+.lor{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    color: white;
+}
+.awe{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
